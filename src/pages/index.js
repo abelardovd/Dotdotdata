@@ -5,10 +5,11 @@ import { MdPhone } from 'react-icons/md'
 
 import Section from '../components/Section'
 
-import logo from '../images/logo.png'
-import image1 from '../images/1.jpg'
-import image2 from '../images/2.jpg'
-import image3 from '../images/3.jpg'
+import logo from '../images/D-Logo-pink.png'
+import image1 from '../images/Pink Background-Promo 5.png'
+import image2 from '../images/Picture-Guy Walking-Promo 5.png'
+import image3 from '../images/Picture-Buildings-Promo 5.png'
+
 
 import './styles.css'
 
@@ -39,6 +40,7 @@ const Footer = styled.div`
 const TextHeader = styled.span`
   font-weight: bold;
   font-size: 1.5rem;
+  color: salmon;
 `
 
 const SocialIcon = styled.a`
@@ -56,14 +58,14 @@ const IndexPage = () =>
 
     <Header>
       <HeaderImage src={logo} />
-      <TextHeader>Book a shoot today</TextHeader>
+      <TextHeader>Dot Dot Data</TextHeader>
       <HeaderImage src={logo} />
     </Header>
 
     <Content>
       <Section image={image1} textLeft='Weddings' textRight='Capture your big moment.' />
       <Section image={image2} textLeft='Every detail forever.' textRight='Engagements' flip />
-      <Section image={image3} textLeft='Portraits' textRight='A photographic story.' imageRight />
+      <Section image={image3} textLeft='Portraits' textRight='A photographic story.' />
     </Content>
 
     <Footer>
