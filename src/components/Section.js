@@ -9,7 +9,7 @@ const whenImageRight = `
 `
 
 const Wrapper = styled.div`
-  height: calc(40.333vh - 2rem);
+  height: calc(25.333vh - 2rem);
   min-height: 100px;
   display: flex;
   justify-content: space-around;
@@ -35,7 +35,7 @@ const Text = styled.span`
 `
 
 const Section = ({ image, textLeft, textRight, flip, imageRight, Textcenter, }) =>
-  <Wrapper image={image} >
+<Wrapper image={image} imageRight={imageRight}>
     <Text size={flip ? 0.5 : 1.0} align='center'>{Textcenter}</Text>
     
   </Wrapper>
