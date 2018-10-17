@@ -11,6 +11,7 @@ const Wrapper = styled.div`
   align-items: center;
   background: url('${props => props.image}') center;
   background-size: cover;
+  
    
 
   
@@ -30,6 +31,7 @@ const Text = styled.span`
     1px -1px 0 #262626,
     -1px 1px 0 #262626,
     1px 1px 0 #262626;
+    
     
 `
 

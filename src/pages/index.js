@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebookF, FaRegEnvelopeOpen } from 'react-icons/fa'
+import { FaInstagram, FaFacebookF, FaRegEnvelopeOpen, FaTwitter } from 'react-icons/fa'
 import { MdPhone } from 'react-icons/md'
 
 import Section from '../components/Section'
@@ -9,12 +9,13 @@ import logo from '../images/D-Logo-pink.png'
 
 import image2 from '../images/Picture-Guy Walking-Promo 5.png'
 import image3 from '../images/Picture-Buildings-Promo 5.png'
-
+import Background from '../images/PromoPage7Background.png';
 
 import './styles.css'
 
 const Wrapper = styled.div`
   font-family: Haettenschweiler, sans-serif;
+    
 `
 
 const Header = styled.div`
@@ -25,8 +26,10 @@ const Header = styled.div`
 `
 
 const Content = styled.div`
+
   background-color: rgb(232, 97, 97);
   min-height: 100px;
+  
 `
 
 const Footer = styled.div`
@@ -78,6 +81,7 @@ const IndexPage = () =>
       <SocialIcon href='tel:9569291450' target='_blank'><MdPhone style={{ display: 'flex' }} /></SocialIcon>
       <SocialIcon href='tel:9569291450' target='_blank'><FaInstagram style={{ display: 'flex' }} /></SocialIcon>
       <SocialIcon href='tel:9569291450' target='_blank'><FaFacebookF style={{ display: 'flex' }} /></SocialIcon>
+      <SocialIcon href='tel:9569291450' target='_blank'><FaTwitter style={{display: 'flex'}} /></SocialIcon>
       <SocialIcon href='tel:9569291450' target='_blank'><FaRegEnvelopeOpen style={{ display: 'flex' }} /></SocialIcon>
     </Footer>
 
