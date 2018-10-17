@@ -356,8 +356,7 @@
         "start_url": "/",
         "background_color": "#663399",
         "theme_color": "#663399",
-        "display": "minimal-ui",
-        "icon": "src/images/logo.png"
+        "display": "minimal-ui"
       },
       "nodeAPIs": [
         "onPostBootstrap"
@@ -423,7 +422,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d6906fde234cd47da7562f2adbe34b2f",
+        "contentDigest": "4852fc41ad4c1d16c59ea672ee5feba1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -514,7 +513,7 @@
       "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "dc39753248f30ba5738a7184241394d8",
+      "version": "616e163fb86f58b901366183f6babffd",
       "pluginOptions": {
         "plugins": []
       },
@@ -579,7 +578,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "57b8e28e48704efd390d766cfff037e3",
+        "contentDigest": "438aa06a922c6684c85a346fe542b0a4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -684,12 +683,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-16T19:10:54.190Z",
+      "buildTime": "2018-10-16T23:13:33.514Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "038315b632681bef04a1602c8ec6f52c",
+        "contentDigest": "d95af8bffe17c58f294d9a4d1e73930a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -757,7 +756,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "5b504226127f433f4bcb2c46898e5386"
+    "PLUGINS_HASH": "caae494d5e9383c2718d765aa07da41b"
   },
   "componentDataDependencies": {
     "nodes": {},

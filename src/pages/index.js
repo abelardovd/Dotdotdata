@@ -6,7 +6,7 @@ import { MdPhone } from 'react-icons/md'
 import Section from '../components/Section'
 
 import logo from '../images/D-Logo-pink.png'
-import image1 from '../images/Pink Background-Promo 5.png'
+
 import image2 from '../images/Picture-Guy Walking-Promo 5.png'
 import image3 from '../images/Picture-Buildings-Promo 5.png'
 
@@ -14,7 +14,7 @@ import image3 from '../images/Picture-Buildings-Promo 5.png'
 import './styles.css'
 
 const Wrapper = styled.div`
-  font-family: sans-serif;
+  font-family: Haettenschweiler, sans-serif;
 `
 
 const Header = styled.div`
@@ -25,7 +25,7 @@ const Header = styled.div`
 `
 
 const Content = styled.div`
-  background-color: black;
+  background-color: rgb(232, 97, 97);
   min-height: 100px;
 `
 
@@ -40,8 +40,9 @@ const Footer = styled.div`
 const TextHeader = styled.span`
   font-weight: bold;
   font-size: 1.5rem;
-  color: salmon;
+  color: rgb(232, 97, 97);
 `
+
 
 const SocialIcon = styled.a`
   color: black;
@@ -51,6 +52,7 @@ const SocialIcon = styled.a`
 const HeaderImage = styled.img`
   height: 2rem;
   text-align: center;
+  
 `
 
 const IndexPage = () =>
@@ -63,9 +65,12 @@ const IndexPage = () =>
     </Header>
 
     <Content>
-      <Section image={image1} textLeft='Weddings' textRight='Capture your big moment.' />
-      <Section image={image2} textLeft='Every detail forever.' textRight='Engagements' flip />
-      <Section image={image3} textLeft='Portraits' textRight='A photographic story.' />
+      <Section Textcenter='We belive in building networks that boost Our clients advertising performance.'/>
+      <Section image={image2}/>
+      <Section Textcenter='Distribute your online promotions or specials directly to anyones smartphone with bluetooth messaging.' />
+      <Section Textcenter='Wanna Buy One?'/> 
+      <Section Textcenter= 'Book A demo Today.'/>
+      <Section image={image3}  />
     </Content>
 
     <Footer>
