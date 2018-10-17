@@ -55,6 +55,7 @@ const HeaderImage = styled.img`
   
 `
 
+
 const IndexPage = () =>
   <Wrapper>
 
