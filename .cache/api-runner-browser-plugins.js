@@ -1,4 +1,4 @@
 module.exports = [{
-      plugin: require('/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-offline/gatsby-browser'),
+      plugin: require('/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-offline/gatsby-browser'),
       options: {"plugins":[]},
     }]

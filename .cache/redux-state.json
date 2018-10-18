@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/.cache/dev-404-page.js",
+      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/.cache/dev-404-page.js",
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "80696dd7bda7fd7872eafb4a5006acbf",
+        "contentDigest": "45956a1284a8dd55f967d18d519c59b7",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b020348bfa9ce515d510d1f0e5f0d2b",
+        "contentDigest": "2074968fff3561239b59b4ca9ce6aabc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "91dffe8370d45839a526232878acaf81",
+        "contentDigest": "1f1ed10787454ee9339e8c06b7be6bd2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "db466e3e8afa8bfa10f00d194cca8170",
+        "contentDigest": "ed14c88a931b8996de0562da1d049b1f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3c1719ce5b63add824967d285c3b7ce4",
+        "contentDigest": "479f0228c09371563fe049c68883cdcb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6f87ba226804a3ce77020e9d936ec181",
+        "contentDigest": "cd55f62ee32c8eda6f524291742718c3",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -269,13 +269,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "45b258cace9d92e3be507fdbf5e46e2d",
+        "contentDigest": "499a3b0ad5abc81c5eb1f51c3e57be8c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-styled-components": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-styled-components",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-styled-components",
       "id": "Plugin gatsby-plugin-styled-components",
       "name": "gatsby-plugin-styled-components",
       "version": "3.0.0",
@@ -290,7 +290,7 @@
         "wrapRootElement",
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-styled-components",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-styled-components",
       "packageJson": {
         "name": "gatsby-plugin-styled-components",
         "description": "Gatsby plugin to add support for styled components",
@@ -339,13 +339,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4bbab163f60fb51d21dc35bff4d6e11f",
+        "contentDigest": "326fa900685860267b1496dc829e6146",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.4",
@@ -365,7 +365,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -422,13 +422,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4852fc41ad4c1d16c59ea672ee5feba1",
+        "contentDigest": "fae635c5c9b8401f4ced653015824102",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "2.0.5",
@@ -445,7 +445,7 @@
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -504,13 +504,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "62cc9c9d2c916d9fb8a0ce29a889c322",
+        "contentDigest": "df330ff72a5e28cbbe438a7a314eb0fd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "616e163fb86f58b901366183f6babffd",
@@ -520,7 +520,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6",
       "packageJson": {
         "name": "gatsby-starter-default",
         "license": "MIT",
@@ -578,19 +578,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "438aa06a922c6684c85a346fe542b0a4",
+        "contentDigest": "8d2251e0f2af877045dd5d17e90569cc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages",
+        "path": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -598,7 +598,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -670,7 +670,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dc496bae715880ada32c1877be0c2ab0",
+        "contentDigest": "40ce2bc792345db2164f9a004326aab5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -681,12 +681,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2018-10-18T16:28:22.541Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-10-18T17:52:44.342Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e9791817813ab3608e1489f2980b3892",
+        "contentDigest": "874bc9b3fa1d2736ef9e3a76d0e432a2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -695,18 +697,18 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js",
+      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js",
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c5f5b5a8c69880ee23d108c4b936be1",
+        "contentDigest": "fceed8a86d991068e921485d7e405fef",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -715,18 +717,18 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/index.js",
+      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/index.js",
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6de96e3f782220192cd7866dc3bf9e23",
+        "contentDigest": "2744856fee8b4b03ad1bccbb73ba5604",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -735,18 +737,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js",
+      "component": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js",
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b570490209ff497c96e693b08adb387f",
+        "contentDigest": "0f396875a0d2b9ea9cafdd99a1bb83e4",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -767,17 +769,17 @@
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/.cache/dev-404-page.js": {
+    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/.cache/dev-404-page.js"
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/.cache/dev-404-page.js"
     },
-    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js": {
+    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js": {
       "query": "",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/404.js"
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/404.js"
     },
-    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/index.js": {
+    "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/index.js": {
       "query": "",
-      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdata/src/pages/index.js"
+      "componentPath": "/Users/yadiraeloisadavilacorona/Desktop/Trabajo/Dotdotdatapromopage6/src/pages/index.js"
     }
   },
   "staticQueryComponents": {}
