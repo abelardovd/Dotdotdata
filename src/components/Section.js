@@ -20,7 +20,7 @@ const Wrapper = styled.div`
 
 const Text = styled.span`
   padding: 0.5rem;
-  color: white;
+  color: blue;
   font-weight: bold;
   font-size: 1.55rem;
   text-align: center;

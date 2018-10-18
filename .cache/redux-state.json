@@ -681,14 +681,12 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-10-17T01:33:27.152Z",
+      "buildTime": "2018-10-18T16:28:22.541Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "285f374e725ba5ac904172eec090f6eb",
+        "contentDigest": "e9791817813ab3608e1489f2980b3892",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

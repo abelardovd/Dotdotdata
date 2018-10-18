@@ -30,6 +30,9 @@ const Content = styled.div`
   background-color: rgb(232, 97, 97);
   min-height: 100px;
   
+  
+
+  
 `
 
 const Footer = styled.div`
