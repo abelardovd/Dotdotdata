@@ -11,8 +11,6 @@ const Wrapper = styled.div`
   align-items: center;
   background: url('${props => props.image}') center;
   background-size: cover;
-  
-   
 
   
   
@@ -20,7 +18,7 @@ const Wrapper = styled.div`
 
 const Text = styled.span`
   padding: 0.5rem;
-  color: blue;
+  color: white;
   font-weight: bold;
   font-size: 1.55rem;
   text-align: center;
